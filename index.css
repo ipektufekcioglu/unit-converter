@@ -13,7 +13,7 @@ body {
 }
 
 #hero {
-    background-color: #6943FF;
+    background-color: #C25CED;
     height: 285px;
     font-family: "Inter", sans-serif;
 }
@@ -30,7 +30,7 @@ body {
     height: 83px;
     border: 2px solid #B295FF;
     border-radius: 5px;
-    background-color: #6943FF;
+    background-color: #C25CED;
     color: #FFFFFF;
     font-size: 58px;
     font-weight: 800;
